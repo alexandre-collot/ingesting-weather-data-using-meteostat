@@ -16,7 +16,9 @@ After assigning random locations (latitude, longitude, and city) to the differen
   * tsun: The mean sunshine total in minutes (m)
 
 **Files**:
- * [PyPI](https://pypi.org/project/meteostat/)
+ * [data.csv](data.csv): 
+ * [latitude_longitude.csv](latitude_longitude.csv)
+ * [weather_data.csv](weather_data.csv): 
 
 
 ## Installation
@@ -110,7 +112,7 @@ def extract_weather(df):
 
 ## Output:
 
-The final output obtained after merging the weather data with the main df can be accessed [PyPI](https://pypi.org/project/meteostat/). 
+The final output obtained after merging the weather data with the main df can be accessed [weather_data.csv](weather_data.csv). 
 
 <p align="center">
 <img src="output.png">
