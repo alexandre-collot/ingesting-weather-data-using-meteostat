@@ -1,11 +1,11 @@
 # ⛅️ Ingesting Weather Data with Meteostat
 
 ## **Task**: 
-After assigning random locations (latitude, longitude, and city) to the different organizations, use the Meteostat Python library to ingest data for each available time period in the original data set.
+After assigning random locations (latitude, longitude, and city) to the different organizations, I used the Meteostat Python library to ingest data for each available time period in the original dataset.
 
 **What is Meteostat?**: The Meteostat Python library provides simple access to open weather and climate data using Pandas. Historical observations and statistics are obtained from Meteostat's bulk data interface and consist of data provided by different public interfaces, most of which are governmental. Among the data sources are national weather services like the National Oceanic and Atmospheric Administration (NOAA) and Germany's national meteorological service (DWD).
 
-**Location information**: I created a csv containing for the main Spanish cities, the latitude, the longitude and the name of the city. You can access the csv here: [latitude_longitude.csv](latitude_longitude.csv):
+**Location information**: I have created a csv containing for the main Spanish cities their latitude and longitude. You can access this csv here: [latitude_longitude.csv](latitude_longitude.csv):
 
 **Metrics ingested**:
   * tavg: The mean air temperature in °C
