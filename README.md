@@ -19,7 +19,7 @@ After assigning random locations (latitude, longitude, and city) to the differen
  * [data.csv](data.csv): csv that contains the main data information for which we need to ingest the weather data (Organization ID, the Year and Month.)
  * [latitude_longitude.csv](latitude_longitude.csv): csv that contains the location informations for the main Spanish cities (Latitude, Longitude, City)
  * [weather_data.csv](weather_data.csv): csv being the final output of this project. It combines the weather information ingested for each rows available in the [data.csv](data.csv).
- * 
+ * [weather_ingestion.ipynb](weather_ingestion.ipynb): Jupyter notebook with transformations and weather data ingestion.
 
 
 ## Installation
