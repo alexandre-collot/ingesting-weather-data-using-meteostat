@@ -16,9 +16,10 @@ After assigning random locations (latitude, longitude, and city) to the differen
   * tsun: The mean sunshine total in minutes (m)
 
 **Files**:
- * [data.csv](data.csv): 
- * [latitude_longitude.csv](latitude_longitude.csv)
- * [weather_data.csv](weather_data.csv): 
+ * [data.csv](data.csv): csv that contains the main data information for which we need to ingest the weather data (Organization ID, the Year and Month.)
+ * [latitude_longitude.csv](latitude_longitude.csv): csv that contains the location informations for the main Spanish cities (Latitude, Longitude, City)
+ * [weather_data.csv](weather_data.csv): csv being the final output of this project. It combines the weather information ingested for each rows available in the [data.csv](data.csv).
+ * 
 
 
 ## Installation
