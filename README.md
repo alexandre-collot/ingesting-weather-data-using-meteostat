@@ -107,6 +107,8 @@ def extract_weather(df):
 
 ## Output:
 
+The final output obtained after merging the weather data with the main df can be accessed [PyPI](https://pypi.org/project/meteostat/). 
+
 <p align="center">
 <img src="output.png">
 </p>
