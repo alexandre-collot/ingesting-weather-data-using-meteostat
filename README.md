@@ -15,6 +15,9 @@ After assigning random locations (latitude, longitude, and city) to the differen
   * wspd: The mean wind speed in km/h
   * tsun: The mean sunshine total in minutes (m)
 
+**Files**:
+ * [PyPI](https://pypi.org/project/meteostat/)
+
 
 ## Installation
 
