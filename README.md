@@ -108,6 +108,6 @@ def extract_weather(df):
 ## Output:
 
 <p align="center">
-<img src="img/fastest_lap.gif">
+<img src="output.png">
 </p>
 
